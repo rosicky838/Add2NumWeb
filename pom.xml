@@ -56,7 +56,7 @@
 		    <artifactId>Add2Num</artifactId>
 		    <version>0.0.1</version>
 		    <scope>system</scope>
-		    <systemPath>E:/workspace-spring-tools-for-eclipse/Add2NumWeb/libs/Add2Num-0.0.1.jar</systemPath>
+		    <systemPath>${project.basedir}/libs/Add2Num-0.0.1.jar</systemPath>
 		</dependency>
 	</dependencies>
 
